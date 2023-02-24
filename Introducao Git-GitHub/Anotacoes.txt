@@ -1,0 +1,2 @@
+Link para download do Git: https://git-csm.com/downloads
+O Git Bash É UM TERMINAL extendido para otimizar o uso do Git
